@@ -7,7 +7,7 @@ import os
 """Does not work since 02/15/2020"""
 
 REQUEST_STATUS_CODE = 200
-name_dir = 'vk_music'
+name_dir = ''
 path = r'D:\\' + name_dir
 login = ''
 password = ''
